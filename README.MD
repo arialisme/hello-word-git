@@ -106,3 +106,17 @@ Esto es un texto referente a un cita que pondremos debajo:
 Esto es otro texto que no se relaciona con la cita anterior.
 
 > Esto es otra cita.
+
+# Lineas divisoras
+
+Esto es un texto que sera dividido por tres guiones medios .
+
+---
+
+Esto es otro texto dividido por tres asteriscos .
+
+---
+
+Esto es otro texto que sera dividido por tres guiones bajos.
+
+---
