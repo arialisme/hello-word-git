@@ -120,3 +120,13 @@ Esto es otro texto dividido por tres asteriscos .
 Esto es otro texto que sera dividido por tres guiones bajos.
 
 ---
+
+# Saltos de lineas
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+
+- Se realiza con un enter entre cada parrafo
