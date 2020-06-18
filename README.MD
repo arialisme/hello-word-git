@@ -40,3 +40,7 @@
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+
+![Logo Github](https://www.sferalabs.cc/wp-content/uploads/github-logo.png)
