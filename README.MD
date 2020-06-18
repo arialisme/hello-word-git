@@ -96,3 +96,13 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Elaimy | Arias    | 65857555  |
 | Nene   | Gabi     | 00004444  |
+
+# Citas
+
+Esto es un texto referente a un cita que pondremos debajo:
+
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+
+> Esto es otra cita.
